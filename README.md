@@ -11,14 +11,15 @@ value will decrease mob damage, 0 will leave it at
 default and positive numbers will increase it.
 
 ### Basic configuration
-|Config Value   |Damage Value   |
-|1              |2x             | 
-|.5             |1.5X           |
-|.25            |1.25x          |
-|0              |1x             |
-|-.25           |.75x           |
-|-.5            |.5x            |
-|-1             |0x             | 
+| Config Value | Damage Value |
+|:------------:|:------------:|
+|1             |2x            | 
+|.5            |1.5X          |
+|.25           |1.25x         |
+|0             |1x            |
+|-.25          |.75x          |
+|-.5           |.5x           |
+|-1            |0x            | 
 
 | Command | Aliases | Permission |
 |:-------:|:-------:|:----------:|
