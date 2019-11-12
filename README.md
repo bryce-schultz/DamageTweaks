@@ -21,6 +21,7 @@ default and positive numbers will increase it.
 |-.5           |.5x           |
 |-1            |0x            | 
 
+### Commands
 | Command | Aliases | Permission |
 |:-------:|:-------:|:----------:|
 |`/setdamagemodifier` |`/setdm`, `/sdm`|`damagetweaks.setdamagemodifier`|
