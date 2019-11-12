@@ -10,3 +10,4 @@ commands:
     usage: /setdamagemodifier <value>
     description: change the damage modifier, -1 is 0 damage, 0 is default damage, and 1 is 2x the damage.
     aliases: [setdm, sdm]
+    permission: damagetweaks.setdamagemodifier
