@@ -5,6 +5,9 @@ is that there is a damage modifier, this can be set
 in either the config file (reload required), or by
 a command in game.
 
+### Download
+[DamageTweaks.jar](https://github.com/bryce-schultz/DamageTweaks/raw/master/target/DamageTweaks.jar)
+
 ### How to set the modifier
 The modifier value is set at -1 or higher. A negative
 value will decrease mob damage, 0 will leave it at
